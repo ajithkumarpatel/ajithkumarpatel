@@ -19,7 +19,7 @@
 
 <h3 align="left">Fun Fact:</h3>
 <p align="left">
-  🎉 Born on June 13, 2005 | 19 years old | devoted to my owm life <br>
+  🎉 Born on June 13, 2005 | 19 years old | devoted to my own life <br>
   ❤️ Love & Peace | 🚴‍♂️ Bike Enthusiast | 🕊️ Love feeding birds <br>
   🍳 Enjoy cooking | 🎧 Love listening to music | 🏋️‍♂️ Gym-goer | 🏝️ Traveling Enthusiast 🌄🗻
 </p>
