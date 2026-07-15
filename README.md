@@ -1,139 +1,45 @@
-<!-- =========================
-     AJITH KUMAR — GITHUB PROFILE README
-     GitHub: ajithkumarpatel
-========================= --><div align="center"><img src="https://res.cloudinary.com/dlggfehry/image/upload/v1769771036/ChatGPT_Image_Jan_30_2026_04_33_21_PM_lq94g0.png" width="100%" alt="Ajith Kumar Banner" /><br/><br/>
-
-Hi 👋, I'm Ajith Kumar
-
-AI & Data Science Enthusiast • Frontend Developer • B.Tech CSE Student
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Enthusiast+%F0%9F%A4%96;Data+Science+Explorer+%F0%9F%93%8A;Frontend+Developer+%F0%9F%92%BB;Machine+Learning+Learner+%F0%9F%A7%A0;Open+Source+Enthusiast+%F0%9F%8C%8D;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Typing SVG" /><br/><a href="https://github.com/ajithkumarpatel">
-  <img src="https://img.shields.io/github/followers/ajithkumarpatel?label=Followers&style=for-the-badge&logo=github&color=0D1117&labelColor=00D9FF" alt="GitHub Followers" />
-</a><img src="https://komarev.com/ghpvc/?username=ajithkumarpatel&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" /></div>---
-
-👨‍💻 About Me
-
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />🎓 I'm a B.Tech Computer Science student at Parul University
-
-🤖 Passionate about Artificial Intelligence & Data Science
-
-📊 Interested in discovering hidden patterns and meaningful insights from data
-
-💻 Exploring Frontend Development, Machine Learning & modern AI technologies
-
-🌱 Currently learning advanced AI techniques and Data Science methodologies
-
-🚀 I love transforming ideas into real-world projects
-
-🤝 Open to open-source contributions and collaborations
-
-💬 Ask me about AI, Data Science, Python & Frontend Development
-
-⚡ My philosophy: Learn → Build → Improve → Repeat
-
-<br clear="both"/>---
-
-🚀 What I'm Focused On
-
-<div align="center">🤖 Artificial Intelligence| 📊 Data Science| 🧠 Machine Learning
-Building intelligent systems| Discovering insights from data| Learning predictive models
-
-🌐 Web Development| ☁️ Cloud & DevOps| 🌍 Open Source
-Creating modern experiences| Exploring scalable technologies| Learning through collaboration
-
-</div>---
-
-🛠️ Tech Stack
-
-👨‍💻 Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,javascript&theme=dark" alt="Programming Languages" />
-</p>🌐 Frontend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark" alt="Frontend Technologies" />
-</p>⚙️ Backend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,flask&theme=dark" alt="Backend Technologies" />
-</p>🗄️ Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Databases" />
-</p>🤖 AI & Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="AI and Machine Learning" />
-</p>🔧 Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,androidstudio,unity&theme=dark" alt="Tools and Platforms" />
-</p>---
-
-📊 GitHub Analytics
-
-<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajithkumarpatel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="Ajith Kumar GitHub Stats" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajithkumarpatel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Most Used Languages" /></div><br/><div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ajithkumarpatel&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" /></div>---
-
-📈 Contribution Activity
-
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ajithkumarpatel&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" /></div>---
-
-🏆 GitHub Trophies
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ajithkumarpatel&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" /></div>---
-
-🚀 Featured Projects
-
-<div align="center"><a href="https://github.com/ajithkumarpatel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajithkumarpatel&repo=YOUR-BEST-REPOSITORY&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="Featured Project 1" />
-</a><a href="https://github.com/ajithkumarpatel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajithkumarpatel&repo=YOUR-SECOND-REPOSITORY&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="Featured Project 2" />
-</a></div>«Replace "YOUR-BEST-REPOSITORY" and "YOUR-SECOND-REPOSITORY" with your actual repository names.»
-
----
-
-🐍 Contribution Snake
-
-<div align="center"><img src="https://raw.githubusercontent.com/ajithkumarpatel/ajithkumarpatel/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" /></div>---
-
-🎯 Current Goals
-
-- 🧠 Deepen my knowledge of Artificial Intelligence & Machine Learning
-- 📊 Build impactful Data Science projects
-- 💻 Create modern and responsive Web Applications
-- 🌍 Contribute to meaningful Open Source projects
-- ☁️ Explore Cloud Computing & DevOps
-- 🚀 Turn innovative ideas into real-world solutions
-
----
-
-🌟 Beyond Code
-
-<div align="center">🚴‍♂️ Bike Enthusiast • 🕊️ Bird Lover • 🍳 Cooking
-
-🎧 Music • 🏋️‍♂️ Fitness • 🌍 Traveling
-
-<br/>«Life is more than code — explore, create, learn, and enjoy the journey.»
-
-</div>---
-
-🤝 Connect With Me
-
-<div align="center"><a href="https://github.com/ajithkumarpatel">
-  <img src="https://img.shields.io/badge/GitHub-Ajith_Kumar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a><a href="https://www.instagram.com/ajith_patel__23/">
-  <img src="https://img.shields.io/badge/Instagram-ajith__patel__23-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a></div>---
-
-<div align="center">💭 Developer Mindset
-
-“Stay curious. Keep learning. Build things that matter.”
-
-<br/>💻 Code. 📊 Analyze. 🤖 Innovate. 🚀 Repeat.
-
-<br/>⭐ If you like my work, consider starring my repositories!
-
-<br/>Thanks for visiting my profile! 👋
-
-<br/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=120&section=footer" width="100%" alt="Footer" /></div>
+<h1 align="center">Hi 👋, I'm Ajith kumar</h1>  
+<h3 align="center">🎓 Student | 🔧 Passionate Frontend Developer from India | 🚀 AI & Web Development Enthusiast</h3>  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajithkumarpatel&label=Profile%20views&color=0e75b6&style=flat" alt="ajithkumarpatel" /> </p>  <h3 align="left">About Me:</h3>  
+<p align="left">  
+  🎓 Currently studying at Parul University <br>  
+  🔭 Interested in discovering hidden patterns, rules, and knowledge from datasets <br>  
+  🎯 Focusing on AI & Data Science <br>  
+  🌱 Currently learning about advanced AI techniques and data science methodologies <br>  
+  💬 Open to collaborating on open source projects! <br>  
+  🗣️ Ping me about data science, AI, and frontend development.  
+</p>  <p align="right">  
+  <img alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">  
+</p>  <h3 align="left">Fun Fact:</h3>  
+<p align="left">  
+  🎉 Born on June 13, 2005 | 19 years old | devoted to my own life <br>  
+  ❤️ Love & Peace | 🚴‍♂️ Bike Enthusiast | 🕊️ Love feeding birds <br>  
+  🍳 Enjoy cooking | 🎧 Love listening to music | 🏋️‍♂️ Gym-goer | 🏝️ Traveling Enthusiast 🌄🗻  
+</p>  <h3 align="left">Languages:</h3>  
+<p align="left">  
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  
+</p>  <h3 align="left">Tools:</h3>  
+<p align="left">  
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>   
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  
+  <a href="https://www.django.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>  
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>   
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>  
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  
+  <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a>  
+</p>  <h3 align="left">Trophies:</h3>  
+<p align="left">  
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajithkumarpatel" alt="ajithkumarpatel" /></a>  
+</p>  <h3 align="left">Connect with me:</h3>  
+<p align="left">  
+  <a href="https://instagram.com/https://www.instagram.com/ajith_patel__23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ajith_patel__23/" height="30" width="40" /></a>  
+</p>  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajithkumarpatel&show_icons=true&locale=en&layout=compact" alt="ajithkumarpatel" /></p>  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajithkumarpatel&show_icons=true&locale=en" alt="ajithkumarpatel" /></p>  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajithkumarpatel&" alt="ajithkumarpatel" /></p>
